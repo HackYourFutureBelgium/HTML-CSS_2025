@@ -16,18 +16,16 @@ The `freeCodeCamp` courses are a good way to learn and their certifications are 
 
 <br>
 
-## What you have done so far
+
+## What you have to do before the first Sunday class
 
 There are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end of each part.
-You have already finished at least 2 sections from the first part as part of the application assignment:
+
+You should finish first part and the certification project that goes with it. Namely:
 
 - [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
 
 - [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
-
-## What you have to do before the first Sunday session
-
-You should finish the first part and the certification project that goes with it:
 
 - [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers)
 

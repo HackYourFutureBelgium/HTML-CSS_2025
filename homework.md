@@ -22,7 +22,7 @@ Make it as extravagant as you like and look around the internet for inspiration 
 `* ` it is not advisable to have tutorial or course projects in your portfolio, you should make sure to have unique and interesting self-driven projects. However, it is a bit too early for that. Start with the "Survey Form" and keep building and extending your project portfolio as you learn!
 
 ❗ Remember: you have to submit the homework during the week, before the weekend, so plan your workload accordingly. You can keep working on this portfolio in the future, so just focus on doing a nice initial version for now!
-<br/>Check [the first homework submission](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/main/first-homework-submission.md) instructions to make sure to submit the homework correctly!
+<br/>Check [the first homework submission](https://github.com/HackYourFutureBelgium/HTML-CSS_2025/blob/main/first-homework-submission.md) instructions to make sure to submit the homework correctly!
 
 **Small tip:**
 - Got to [Loom.com](https://www.loom.com/) and download the app or plugin.
